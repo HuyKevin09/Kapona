@@ -1,0 +1,57 @@
+com/example/kapona30/database/ConsoDao.java
+ com.example.kapona30.database.ConsoDao
+com/example/kapona30/historique/HistoriqueFragment.java
+ com.example.kapona30.historique.HistoriqueFragment
+com/example/kapona30/DialogConso.java
+ com.example.kapona30.DialogConso
+com/example/kapona30/favoris/FavorisFragment.java
+ com.example.kapona30.favoris.FavorisFragment
+com/example/kapona30/liste/AdapterListe.java
+ com.example.kapona30.liste.AdapterListe
+com/example/kapona30/conso/ConsoMoisFragment.java
+ com.example.kapona30.conso.ConsoMoisFragment
+com/example/kapona30/API/Product.java
+ com.example.kapona30.API.Product
+com/example/kapona30/conso/ConsoProdFragment.java
+ com.example.kapona30.conso.ConsoProdFragment
+com/example/kapona30/API/JSONPlaceHolderApi.java
+ com.example.kapona30.API.JSONPlaceHolderApi
+com/example/kapona30/historique/AdapterHistorique.java
+ com.example.kapona30.historique.AdapterHistorique
+com/example/kapona30/ActivityProduit.java
+ com.example.kapona30.ActivityProduit
+ com.example.kapona30.ActivityProduit$1
+com/example/kapona30/favoris/AdapterFavoris.java
+ com.example.kapona30.favoris.AdapterFavoris
+com/example/kapona30/database/RoomDB.java
+ com.example.kapona30.database.RoomDB
+com/example/kapona30/conso/ConsommationFragment.java
+ com.example.kapona30.conso.ConsommationFragment
+com/example/kapona30/ScanFragment.java
+ com.example.kapona30.ScanFragment
+com/example/kapona30/MainActivity.java
+ com.example.kapona30.MainActivity
+ com.example.kapona30.MainActivity$1
+com/example/kapona30/liste/ListeFragment.java
+ com.example.kapona30.liste.ListeFragment
+com/example/kapona30/API/NutrimentsData.java
+ com.example.kapona30.API.NutrimentsData
+com/example/kapona30/API/ProductData.java
+ com.example.kapona30.API.ProductData
+com/example/kapona30/conso/ConsoSemaineFragment.java
+ com.example.kapona30.conso.ConsoSemaineFragment
+com/example/kapona30/CaptureAct.java
+ com.example.kapona30.CaptureAct
+com/example/kapona30/database/ConsoData.java
+ com.example.kapona30.database.ConsoData
+com/example/kapona30/conso/ConsoJourFragment.java
+ com.example.kapona30.conso.ConsoJourFragment
+ com.example.kapona30.conso.ConsoJourFragment$1
+com/example/kapona30/Allergenes.java
+ com.example.kapona30.Allergenes
+com/example/kapona30/conso/MainAdapter.java
+ com.example.kapona30.conso.MainAdapter
+ com.example.kapona30.conso.MainAdapter$1
+ com.example.kapona30.conso.MainAdapter$ViewHolder
+com/example/kapona30/BuildConfig.java
+ com.example.kapona30.BuildConfig

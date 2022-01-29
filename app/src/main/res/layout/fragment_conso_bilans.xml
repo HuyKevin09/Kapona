@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp">
+
+        <TextView
+            android:id="coucou"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:textColor="#000"
+            android:textAlignment="center"
+            android:padding="25dp"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"/>
+
+        <TextView
+            android:id="@+id/energy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/conso"/>
+
+        <com.github.mikephil.charting.charts.HorizontalBarChart
+            android:id="@+id/barre_horizontale"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            app:layout_constraintTop_toBottomOf="@id/energy"/>
+
+        <ImageView
+            android:id="@+id/salt_color"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="7dp"
+            android:background="@drawable/color_salt_sodium"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/fibers">
+        </ImageView>
+
+        <TextView
+            android:id="@+id/salt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginStart="10dp"
+            android:paddingBottom="20dp"
+            app:layout_constraintLeft_toRightOf="@id/salt_color"
+            app:layout_constraintTop_toBottomOf="@id/fibers">
+        </TextView>
+
+        <ImageView
+            android:id="@+id/sodium_color"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="175dp"
+            android:background="@drawable/color_salt_sodium"
+            app:layout_constraintLeft_toLeftOf="@id/salt"
+            app:layout_constraintTop_toBottomOf="@id/proteins">
+        </ImageView>
+
+        <TextView
+            android:id="@+id/sodium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginStart="10dp"
+            android:paddingBottom="20dp"
+            app:layout_constraintLeft_toRightOf="@id/sodium_color"
+            app:layout_constraintTop_toBottomOf="@id/proteins">
+        </TextView>
+
+        <ImageView
+            android:id="@+id/proteins_color"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="175dp"
+            android:background="@drawable/color_proteins"
+            app:layout_constraintLeft_toLeftOf="@id/fibers"
+            app:layout_constraintTop_toBottomOf="@id/sugars">
+        </ImageView>
+
+        <TextView
+            android:id="@+id/proteins"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginStart="10dp"
+            android:paddingBottom="20dp"
+            app:layout_constraintLeft_toRightOf="@id/proteins_color"
+            app:layout_constraintTop_toBottomOf="@id/sugars"/>
+
+        <ImageView
+            android:id="@+id/calcium_color"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="7dp"
+            android:background="@drawable/color_calcium"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/salt">
+        </ImageView>
+
+        <TextView
+            android:id="@+id/calcium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginStart="10dp"
+            android:paddingBottom="20dp"
+            app:layout_constraintLeft_toRightOf="@id/calcium_color"
+            app:layout_constraintTop_toBottomOf="@id/salt">
+        </TextView>
+
+        <ImageView
+            android:id="@+id/fat_color"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="7dp"
+            android:background="@drawable/color_fat"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/barre_horizontale">
+        </ImageView>
+
+        <TextView
+            android:id="@+id/fat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginStart="10dp"
+            android:paddingBottom="20dp"
+            app:layout_constraintLeft_toRightOf="@id/fat_color"
+            app:layout_constraintTop_toBottomOf="@id/barre_horizontale">
+        </TextView>
+
+        <ImageView
+            android:id="@+id/carbohydrates_color"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="7dp"
+            android:background="@drawable/color_carbohydrates"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/fat">
+        </ImageView>
+
+        <TextView
+            android:id="@+id/carbohydrates"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginStart="10dp"
+            android:paddingBottom="20dp"
+            app:layout_constraintLeft_toRightOf="@id/carbohydrates_color"
+            app:layout_constraintTop_toBottomOf="@id/fat">
+        </TextView>
+
+        <TextView
+            android:id="@+id/saturated_fat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginStart="175dp"
+            android:paddingBottom="20dp"
+            app:layout_constraintLeft_toRightOf="@id/fat_color"
+            app:layout_constraintTop_toBottomOf="@id/barre_horizontale">
+        </TextView>
+
+        <TextView
+            android:id="@+id/sugars"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginStart="175dp"
+            android:paddingBottom="20dp"
+            app:layout_constraintLeft_toRightOf="@id/carbohydrates_color"
+            app:layout_constraintTop_toBottomOf="@id/saturated_fat">
+        </TextView>
+
+        <ImageView
+            android:id="@+id/fibers_color"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="7dp"
+            android:background="@drawable/color_fiber"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/carbohydrates">
+        </ImageView>
+
+        <TextView
+            android:id="@+id/fibers"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:layout_marginStart="10dp"
+            android:paddingBottom="20dp"
+            app:layout_constraintLeft_toRightOf="@id/fibers_color"
+            app:layout_constraintTop_toBottomOf="@id/carbohydrates"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

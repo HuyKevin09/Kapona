@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:paddingStart="25dp"
+    android:paddingEnd="5dp"
+    android:layout_height="fill_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/allergenes"
+        android:textSize="40sp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp">
+    </TextView>
+
+    <CheckBox
+        android:id="@+id/checkbox_arachides"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:text="@string/Arachides"
+        android:onClick="onCheckboxClicked"
+        android:layout_marginTop="70dp"/>
+
+    <CheckBox
+        android:id="@+id/checkbox_celeri"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:text="@string/Celeri"
+        android:onClick="onCheckboxClicked"
+        android:layout_marginTop="112dp"/>
+
+    <CheckBox
+        android:id="@+id/checkbox_crustaces"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:text="@string/Crustaces"
+        android:onClick="onCheckboxClicked"
+        android:layout_marginTop="154dp"/>
+
+    <CheckBox
+        android:id="@+id/checkbox_fruits_a_coque"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:text="@string/Fruits_a_coques"
+        android:onClick="onCheckboxClicked"
+        android:layout_marginTop="196dp"/>
+
+    <CheckBox
+        android:id="@+id/checkbox_gluten"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:text="@string/Gluten"
+        android:onClick="onCheckboxClicked"
+        android:layout_marginTop="238dp"/>
+
+    <CheckBox
+        android:id="@+id/checkbox_graines_de_sesame"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:text="@string/Graines_de_sesame"
+        android:onClick="onCheckboxClicked"
+        android:layout_marginTop="280dp"/>
+
+    <CheckBox
+        android:id="@+id/checkbox_lait"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:text="@string/Lait"
+        android:onClick="onCheckboxClicked"
+        android:layout_marginTop="322dp"/>
+
+    <CheckBox
+        android:id="@+id/checkbox_lupin"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:text="@string/Lupin"
+        android:onClick="onCheckboxClicked"
+        android:layout_marginTop="364dp"/>
+
+    <CheckBox
+        android:id="@+id/checkbox_mollusques"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:text="@string/Mollusques"
+        android:onClick="onCheckboxClicked"
+        android:layout_marginTop="408dp"/>
+
+    <CheckBox
+        android:id="@+id/checkbox_moutarde"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:text="@string/Moutarde"
+        android:onClick="onCheckboxClicked"
+        android:layout_marginTop="450dp"/>
+
+    <CheckBox
+        android:id="@+id/checkbox_oeufs"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:text="@string/Oeufs"
+        android:onClick="onCheckboxClicked"
+        android:layout_marginTop="492dp"/>
+
+    <CheckBox
+        android:id="@+id/checkbox_poissons"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:text="@string/Poissons"
+        android:onClick="onCheckboxClicked"
+        android:layout_marginTop="534dp"/>
+
+    <CheckBox
+        android:id="@+id/checkbox_soja"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:text="@string/Soja"
+        android:onClick="onCheckboxClicked"
+        android:layout_marginTop="576dp"/>
+
+</RelativeLayout>

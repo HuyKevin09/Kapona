@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Kapona</string>
+    <string name="consommation">Ma conso</string>
+    <string name="liste">Liste</string>
+    <string name="scan">Scan</string>
+    <string name="historique">Historique</string>
+    <string name="favoris">Favoris</string>
+
+    <string name="ajout_conso">Ajouter à la consommation</string>
+    <string name="ajout_liste">Ajouter à la liste</string>
+    <string name="ajout_favoris">Ajouter aux favoris</string>
+
+    <string name="ajout_conso_texte">Quantité consommée en grammes</string>
+
+    <string name="ce_mois">Ce Mois</string>
+    <string name="cette_semaine">Cette Semaine</string>
+    <string name="aujourdhui">Aujourd\'hui</string>
+
+    <string name="produits_consommes">Produits Consommés</string>
+    <string name="effacer_produits">Effacer Tous Les Produits</string>
+
+    <string name="allergenes">Allergènes</string>
+    <string name="Gluten">Gluten</string>
+    <string name="Crustaces">Crustacés</string>
+    <string name="Oeufs">Oeufs</string>
+    <string name="Poissons">Poissons</string>
+    <string name="Arachides">Arachides</string>
+    <string name="Soja">Soja</string>
+    <string name="Lait">Lait</string>
+    <string name="Fruits_a_coques">Fruits à coque</string>
+    <string name="Celeri">Céleri</string>
+    <string name="Moutarde">Moutarde</string>
+    <string name="Graines_de_sesame">Graines de sésame</string>
+    <string name="Lupin">Lupin</string>
+    <string name="Mollusques">Mollusques</string>
+
+    <string name="search">Search</string>
+</resources>

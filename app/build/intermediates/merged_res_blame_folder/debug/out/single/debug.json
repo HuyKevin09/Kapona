@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_fiber.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\drawable\\color_fiber.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_conso_bilans.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\layout\\fragment_conso_bilans.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\layout_cardview.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\layout\\cardview.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_sugars.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\drawable\\color_sugars.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_calcium.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\drawable\\color_calcium.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_fat.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\drawable\\color_fat.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_round_fiber_manual_record_24.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\drawable\\ic_round_fiber_manual_record_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_consommation.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\layout\\fragment_consommation.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_star_24.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\drawable\\ic_baseline_star_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_listes_produits.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\layout\\fragment_listes_produits.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_restaurant_24.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\drawable\\ic_baseline_restaurant_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_proteins.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\drawable\\color_proteins.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\menu_top_menu.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\menu\\top_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_allergenes.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\layout\\activity_allergenes.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_carbohydrates.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\drawable\\color_carbohydrates.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_salt_sodium.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\drawable\\color_salt_sodium.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_format_list_numbered_rtl_24.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\drawable\\ic_baseline_format_list_numbered_rtl_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_history_24.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\drawable\\ic_baseline_history_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_scan.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\layout\\fragment_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_saturated_fat.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\drawable\\color_saturated_fat.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_delete_forever_24.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\drawable\\ic_baseline_delete_forever_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_produit.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\layout\\activity_produit.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_star_rate_24.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\drawable\\ic_baseline_star_rate_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\king-\\AndroidStudioProjects\\kapona5\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_consommation"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_restaurant_24"
+        android:title="@string/consommation"/>
+    <item
+        android:id="@+id/action_liste"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_format_list_numbered_rtl_24"
+        android:title="@string/liste"/>
+    <item
+        android:id="@+id/action_scan"
+        android:enabled="true"
+        android:icon="@drawable/ic_round_fiber_manual_record_24"
+        android:title="@string/scan"/>
+    <item
+        android:id="@+id/action_historique"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_history_24"
+        android:title="@string/historique"/>
+    <item
+        android:id="@+id/action_favoris"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_star_rate_24"
+        android:title="@string/favoris"/>
+
+</menu>
